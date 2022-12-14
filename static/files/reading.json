@@ -1,0 +1,83 @@
+[
+  
+  {
+    "year": "2022",
+    "books": [
+      {
+        "name": "Fahrenheit 451, Ray Bradbury"
+        
+      },
+      {
+        "name": "Metro 2033, Dimitry Glukhovsky"
+        
+      },
+      {
+        "name": "Tokio Blues, Haruli Murakami"
+        
+      },
+      {
+        "name": "Meditations, Marcus Aurelius"
+        
+      },
+      {
+        "name": "Atomic Habits, James Clear"
+        
+      },
+      {
+        "name": "Lord Of The Flies, William Golding"
+        
+      }
+    ]
+  },
+  {
+    "year": "2021",
+    "books": [
+      {
+        "name": "Brave New World, Aldous L. Huxley"
+        
+      },
+      {
+        "name": "1984, George Orwell"
+        
+      },
+      {
+        "name": "Ready Player Two, Ernest Cline"
+        
+      },
+      {
+        "name": "From animals to Gods: A brief history of humankind, Yuval Noah Harari"
+        
+      },
+      {
+        "name": "The Unbearable Lightness Of Being, Milan Kundera"
+        
+      }
+    ]
+  },
+
+  {
+    "year": "2020",
+    "books": [
+      {
+        "name": "Symposium, Plato"
+        
+      },
+      {
+        "name": "Lord Of The Rings, J.R.R Tolkien"
+        
+      },
+      {
+        "name": "Salem's Lot, Stepheng king"
+        
+      },
+      {
+        "name": "The Canterville Ghost, Oscarl Wilde"
+        
+      },
+      {
+        "name": "Dune, Frank Herbert"
+        
+      }
+    ]
+  }
+]

@@ -1,0 +1,89 @@
+{
+  "projects": [
+    {
+      "name": "Automatized Prototype to Save Waste",
+      "link": "project-1",
+      "date": "07/02/2022",
+      "short": "A way to save waste underground.",
+      "status": "complete",
+      "weight": 1,
+      "tags": [
+        "Tech", "IoT"
+      ],
+      "photos": [
+        "/static/projects/project-1/img.PNG"
+      ]
+    },
+    {
+      "name": "Voice Recognition Neural Network",
+      "link": "project-2",
+      "date": "17/06/2022",
+      "short": "A Neural network to recognize voice.",
+      "status": "complete",
+      "weight": 1,
+      "tags": [
+        "Tech", "Deep Learning", "Neuronal Networks"
+      ],
+      "photos": [
+        "/static/projects/project-2/img.jpg"
+      ]
+    },
+    {
+      "name": "Interactive Robot UI",
+      "link": "project-3",
+      "date": "06/19/2019",
+      "short": "A robot controlled by a Graphic interface.",
+      "status": "complete",
+      "weight": 2,
+      "tags": [
+        "Tech", "Robotics"
+      ],
+      "photos": [
+        "/static/projects/project-3/img.PNG"
+      ]
+    },
+    {
+      "name": "Reverse Recycling Machine",
+      "link": "project-4",
+      "date": "12/1/2021",
+      "short": "A project to save waste and earn money.",
+      "status": "complete",
+      "weight": 2,
+      "tags": [
+        "Tech", "IoT", "Environment"
+      ],
+      "photos": [
+        "/static/projects/project-4/img.jpg"
+      ]
+    },
+    {
+      "name": "Macro Pad",
+      "link": "project-5",
+      "date": "10/10/2022",
+      "short": "DIY Macro Pad With Arduino Pro Mini.",
+      "status": "complete",
+      "weight": 2,
+      "tags": [
+        "Tech", "Arduino", "DIY"
+      ],
+      "photos": [
+        "/static/projects/project-5/img.PNG"
+      ]
+    },
+    {
+      "name": "Python Automation Scripts",
+      "link": "project-6",
+      "date": "06/15/2022",
+      "short": "Scripts made in Python to automate repetitive tasks.",
+      "status": "Progress",
+      "weight": 2,
+      "tags": [
+        "Tech", "DIY", "Python"
+      ],
+      "photos": [
+        "/static/projects/project-6/imgg.jpg"
+      ]
+    }
+    
+  ]
+}
